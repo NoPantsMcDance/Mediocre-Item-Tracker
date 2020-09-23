@@ -25,6 +25,7 @@ keep rest of slots default
 Link setup:
 Detector > PB 1 > switch > relay > PB2
                                  > PB3
+PB 1 > screen
                                  
 PB 2 Container Link Order: 
 Iron, Alum, Carbon, Silicon, Calcium, Chromium, Copper, Sodium, Lithium
